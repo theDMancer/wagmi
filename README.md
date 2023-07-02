@@ -258,3 +258,4 @@ Thanks to julianhutton.eth ([@julianjhutton](https://twitter.com/julianjhutton))
 <a href="https://vercel.com/?utm_source=wagmi-dev&utm_campaign=oss">
   <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" height="35">
 </a>
+mancer fork
